@@ -57,5 +57,7 @@ export default {
   'menu.codemanage.codelist':'Online Code List',
   'menu.codemanage.codeRecordlist':'Code Gen',
   'menu.studentmanage':'Student Manage',
-  'menu.studentmanage.studentinfo':'Student Info'
+  'menu.studentmanage.studentinfo':'Student Info',
+  'menu.tengyue':'TengYue Center',
+  'menu.tengyue.tengyuelist':'Sign Contracts'
 };

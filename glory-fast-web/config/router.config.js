@@ -386,6 +386,20 @@ export default [
           },
         ],
       },
+
+      {
+        name: 'tengyue',
+        icon: 'folder',
+        path: '/tengyue',
+        routes: [
+          // result
+          {
+            path: '/tengyue/tengyuelist',
+            name: 'tengyuelist',
+            component: './TengYue/TengYue',
+          },
+        ],
+      },
       
       {
         component: '404',
