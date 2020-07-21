@@ -57,7 +57,5 @@ export default {
   'menu.codemanage.codelist':'在线表单开发',
   'menu.codemanage.codeRecordlist':'代码生成',
   'menu.studentmanage':'学生管理',
-  'menu.studentmanage.studentinfo':'学生信息',
-  'menu.tengyue':'腾玥中心',
-  'menu.tengyue.tengyuelist':'签约合同管理'
+  'menu.studentmanage.studentinfo':'学生信息'
 };
